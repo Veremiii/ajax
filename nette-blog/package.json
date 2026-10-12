@@ -1,6 +1,7 @@
 {
 	"type": "module",
 	"dependencies": {
+		"naja": "^3.3.3",
 		"nette-forms": "^3.3"
 	},
 	"devDependencies": {
